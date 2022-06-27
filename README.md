@@ -1,8 +1,39 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Operation: Starfall
+Project team:
+
+Product Owners:
+- Berend
+- Alex
+- 
+
+Software Developers:
+- Mark
+- Michelle
+- William
+- Yair
+- Samuel
+- Ryan
+- Piter
+- Timo
+- Lucas
+- Daan
+- Bas
+- Mikey
+- Jim
+- Joost
+
+Game Artists:
+- Marissa
+- Nisa
+- Leandra
+- Solane
+- Ayman
+- Ihsan
+- Ruben
+- Indy
 
 Platform:
-[jullie platfom]
+Nintendo Switch
 
 ### Korte omschrijving van de game
 ...

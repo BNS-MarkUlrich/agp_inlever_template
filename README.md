@@ -67,7 +67,7 @@ Nintendo Switch
 
    [Backlog]: <https://trello.com/b/NkLp0zTo/operation-starfall-sprint-13-first-vertical-slice>
    [Logboek]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
+   [GameDesignDoc]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Concept%20Document.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Retrospectives.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>

@@ -4,7 +4,6 @@ Project team:
 Product Owners:
 - Berend
 - Alex
-- 
 
 Software Developers:
 - Mark

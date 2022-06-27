@@ -69,6 +69,6 @@ Nintendo Switch
    [Logboek]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Logboek.pdf>
    [GameDesignDoc]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Concept%20Document.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Retrospectives.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [ReviewVerslagen]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Reviews.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>

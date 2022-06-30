@@ -35,7 +35,7 @@ Platform:
 Nintendo Switch
 
 ### Korte omschrijving van de game
-...
+Operation: Starfall is een 2,5D Couch Co-op Metroidvania wat afspeelt in een 80's Saturday Sci-Fi Cartoon setting.
 
 ---
 #### Producten Werkproces 1

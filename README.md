@@ -73,4 +73,4 @@ In het spel ben je constant bezig met het beïnvloeden van forces door middel va
    [RetrospectiveVerslagen]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Retrospectives.pdf>
    [ReviewVerslagen]: <https://github.com/BNS-MarkUlrich/agp_inlever_template/blob/master/producten/Starfall_%20Reviews.pdf>
    [Prototype]: <https://github.com/BAStudio/OperationStarfall>
-   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Daily%20stand-up%20videos?csf=1&web=1&e=gHBezG>
+   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/HLO%20Videos?csf=1&web=1&e=fdyRPU>
